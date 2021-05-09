@@ -1,1 +1,1 @@
-# Stock-Trend-Analysis-of-DSE
+# Stock Trend Analysis of Dhaka Stock Exchange
