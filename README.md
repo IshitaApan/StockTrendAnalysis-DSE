@@ -1,1 +1,2 @@
-# Stock Trend Analysis of Dhaka Stock Exchange
+# Stock Trend Analysis
+## Target stock market: Dhaka Stock Exchange(https://www.dsebd.org/)
